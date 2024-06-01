@@ -1,0 +1,15 @@
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.AssemblyInfoInputs.cache
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.AssemblyInfo.cs
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.csproj.CoreCompileInputs.cache
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.sourcelink.json
+D:\code\Geek\HW\dotnet\Exam\dev_exam\bin\Debug\net8.0\dev_exam.exe
+D:\code\Geek\HW\dotnet\Exam\dev_exam\bin\Debug\net8.0\dev_exam.deps.json
+D:\code\Geek\HW\dotnet\Exam\dev_exam\bin\Debug\net8.0\dev_exam.runtimeconfig.json
+D:\code\Geek\HW\dotnet\Exam\dev_exam\bin\Debug\net8.0\dev_exam.dll
+D:\code\Geek\HW\dotnet\Exam\dev_exam\bin\Debug\net8.0\dev_exam.pdb
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.dll
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\refint\dev_exam.dll
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.pdb
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\dev_exam.genruntimeconfig.cache
+D:\code\Geek\HW\dotnet\Exam\dev_exam\obj\Debug\net8.0\ref\dev_exam.dll
